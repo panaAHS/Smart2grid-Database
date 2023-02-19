@@ -1,0 +1,21 @@
+PL_ID,Region,PL_type,Nominal_Voltage,Conn_L2L_PL_ID
+BR-4008,Veroia,Overhead,400kV,KZ-100
+"KZ-100 ",Kozani,Overhead,400kV,NULL
+KZ-1001,Kozani,Overhead,400kV,"KZ-100 "
+KZ-2003,Kozani,Overhead,400kV,KZ-1001
+KZ-4008,Kozani,Overhead,400kV,"TH-22001 "
+MG-4030,Megalopoli,Overhead,400kV,KZ-100
+TH-100,Thessaloniki,Overhead,400kV,KZ-100
+TH-10000,Thessaloniki,Overhead,0.4kV,TH-300
+TH-10001,Thessaloniki,Overhead,0.4kV,TH-300
+TH-10002,Thessaloniki,Overhead,0.4kV,"TH-21002 "
+TH-10003,Thessaloniki,Overhead,0.4kV,TH-300
+TH-10004,Thessaloniki,Overhead,0.4kV,TH-300
+TH-200,Thessaloniki,Overhead,150kV,KZ-1001
+"TH-21002 ",Thessaloniki,Underground,20kV,NULL
+"TH-22001 ",Thessaloniki,Overhead,150kV,NULL
+"TH-24004 ",Thessaloniki,Underground,0.4kV,"TH-21002 "
+"TH-24008 ",Thessaloniki,Overhead,0.4kV,"TH-21002 "
+TH-300,Thessaloniki,Overhead,20kV,"TH-22001 "
+TH-400,Thessaloniki,Overhead,0.4kV,"TH-21002 "
+TH-440,Thessaloniki,Overhead,0.4kV,"TH-21002 "

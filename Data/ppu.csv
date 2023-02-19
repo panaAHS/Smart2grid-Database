@@ -1,0 +1,9 @@
+License_ID,Electricity_Producer,Address,Nominal_Power,Unit_Type
+AHS-0078,PPC,"12km Kozanis Thessalonikis, AHS Ag. Dimitriou",345,TPC
+AHS-0079,PPC,"2km Ptolemaidas-Kozanis AHS Ptoleamaidas 5",660,TPC
+YHS-1008,PPC,"10km Kozanis-Larissas, YHS Polifitou",120,HPS
+SP-30900,Thes-Power,"10km Thessalonikis Veroias","0.5 ",Solar_Panel
+WT-40501,"Thes-Power ","Mt Askio, Stavros",32,Wind_Turbine
+AES-50555,PPC,"2km Megalopolis-Athens, AHS Megalopolis",880,CCPP
+"YHS-1009 ",PPC,"2km Sfikias Verias, YHS Sfhkias",110,HPS
+WT-40501,"Thes-Power ","Mt. Olympos, THMMY",30,Wind_Turbine
