@@ -1,0 +1,7 @@
+#DROP TABLE K;
+
+CREATE TEMPORARY TABLE K AS
+SELECT TIN FROM smartmeter WHERE PL_ID = 'TH-10001';
+
+SELECT email
+FROM K JOIN con_email ON K.TIN = con_email.ConTIN
